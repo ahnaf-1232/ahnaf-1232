@@ -1,4 +1,6 @@
-![Header](https://github.com/ahnaf-1232/ahnaf-1232/blob/main/ahnaf-passport-photo.png)
+<div align="center">
+  <img src="https://github.com/ahnaf-1232/ahnaf-1232/blob/main/ahnaf-passport-photo.png" alt="Header" width="600"/>
+</div>
 
 # Hi there, I'm Ahnaf 👋
 
