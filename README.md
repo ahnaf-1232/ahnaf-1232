@@ -1,4 +1,4 @@
-![Header](https://github.com/ahnaf-1232/ahnaf-1232/blob/main/your-header-image.png)
+![Header](https://github.com/ahnaf-1232/ahnaf-1232/blob/main/README.md)
 
 # Hi there, I'm Ahnaf 👋
 
