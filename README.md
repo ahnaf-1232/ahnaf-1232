@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ahnaf-1232/ahnaf-1232/blob/main/ahnaf-passport-photo.png" alt="Header" width="600"/>
+  <img src="https://github.com/ahnaf-1232/ahnaf-1232/blob/main/ahnaf-passport-photo.png" alt="Header" width="200"/>
 </div>
 
 # Hi there, I'm Ahnaf 👋
