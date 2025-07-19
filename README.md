@@ -24,3 +24,8 @@ Welcome to my GitHub profile! I'm passionate about building scalable and efficie
 - [Smart Dhaka](https://github.com/ahnaf-1232/smart-dhaka): A city management app for Dhaka.
 - [DUBTS](https://github.com/ahnaf-1232/dubts): A decentralized university blockchain tracking system.
 - [Mini LinkedIn](https://github.com/ahnaf-1232/mini-linkedin): A social networking platform for professionals.
+
+## 📬 Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/ahnaf-1232)
+- [Email](mailto:ahnaf@example.com)
