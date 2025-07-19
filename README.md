@@ -1,5 +1,4 @@
-<!-- Profile Banner -->
-![Profile Banner](https://your-banner-image-url.com)
+![Header](https://github.com/ahnaf-1232/ahnaf-1232/blob/main/your-header-image.png)
 
 # Hi there, I'm Ahnaf 👋
 
@@ -8,8 +7,6 @@
 📍 Dhaka, Bangladesh
 
 Welcome to my GitHub profile! I'm passionate about building scalable and efficient systems. Let's connect and collaborate!
-
----
 
 ## 🛠️ Tech Stack
 
@@ -36,15 +33,9 @@ Welcome to my GitHub profile! I'm passionate about building scalable and efficie
 - **SonarQube**: Code Quality
 - **Prometheus**: Monitoring
 
----
-
 ## 📈 GitHub Stats
 
 ![Ahnaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahnaf-1232&show_icons=true&hide=prs&count_private=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahnaf-1232&theme=radical)
-
----
 
 ## 📌 Pinned Repositories
 
@@ -57,8 +48,6 @@ A decentralized university blockchain tracking system for secure and transparent
 ### [Mini LinkedIn](https://github.com/ahnaf-1232/mini-linkedin)
 A social networking platform for professionals to connect, share, and grow their careers.
 
----
-
 ## 🏆 Achievements
 
 - **BUET CSE FEST 2024**: DevOps Segment – 1st Runner-Up
@@ -66,30 +55,13 @@ A social networking platform for professionals to connect, share, and grow their
 - **ITVERSE 2024**: Blockchain Segment – Finalist
 - **ITVERSE 2024**: Project Showcasing – Finalist
 
----
-
 ## 📬 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/ahnaf-1232)
 - [Email](mailto:ahnaf@example.com)
 
----
+## 👁️ Profile Views
 
-## 🎨 Design & Aesthetic Enhancements
-
-To further enhance the visual appeal of your README, consider incorporating the following elements:
-
-- **Profile Header**: Use tools like [GitHub Profile Header Generator](https://github.com/leviarista/github-profile-header-generator) to create a personalized header image that reflects your professional identity.
-
-- **Badges**: Display badges for your skills and achievements using [Shields.io](https://shields.io/). For example:
-
-  ![AWS Badge](https://img.shields.io/badge/AWS-EC2-orange)
-  ![Terraform Badge](https://img.shields.io/badge/Terraform-1.0-blue)
-
-- **Contribution Graph**: Showcase your GitHub activity with a dynamic contribution graph using [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats).
-
-- **Visitor Counter**: Add a visitor counter to track the number of visitors to your profile using [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter).
-
----
-
-Feel free to customize this template further to match your personal style and preferences. If you need assistance with adding specific features or visual elements, don't hesitate to ask!
+<a href="https://github.com/ahnaf-1232/ahnaf-1232">
+  <img src="https://komarev.com/ghpvc/?username=ahnaf-1232&label=Profile%20views&color=0e75b6&style=flat" alt="ahnaf-1232" />
+</a>
